@@ -11,10 +11,10 @@ The project is developed using PHP and needs a PHP development environment to te
 # Built With
 
 <a href="http://php.net/"><img src="./docs/readme-resources/technologies/php.svg" alt="php" height="30" /></a>&nbsp;&nbsp;
-<a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/"><img  src="./docs/readme-resources/boostrap.svg" alt="bootstrap" height="30" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"><img src="./docs/readme-resources/css3.svg" alt="CSS3" height="30" /></a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="./docs/readme-resources/html5.svg" alt="HTML5" height="30" /></a>&nbsp;&nbsp;
-<a href="https://jquery.com/"><img style="display:inline-block;margin: 5px 10px" src="./docs/readme-resources/jquery.svg" alt="jquery" height="20" /></a>&nbsp;&nbsp;
+<a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/"><img  src="./docs/readme-resources/technologies/boostrap.svg" alt="bootstrap" height="30" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"><img src="./docs/readme-resources/technologies/css3.svg" alt="CSS3" height="30" /></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="./docs/readme-resources/technologies/html5.svg" alt="HTML5" height="30" /></a>&nbsp;&nbsp;
+<a href="https://jquery.com/"><img style="display:inline-block;margin: 5px 10px" src="./docs/readme-resources/technologies/jquery.svg" alt="jquery" height="20" /></a>&nbsp;&nbsp;
 
 # License
 
